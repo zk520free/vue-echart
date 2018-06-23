@@ -3,6 +3,7 @@ Combining vue and echart.The use of rich graphics in echart in vue
 ## 简介
 - 主要用于数据的可视化展示分析
 - 组件化的思想
+- 图表动态添加
 ## 安装下载
 
 ## 快速使用
